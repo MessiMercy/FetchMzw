@@ -1,0 +1,2 @@
+com.popsiclegames.darkestlight
+com.bandainamcogames.fortresslegends
